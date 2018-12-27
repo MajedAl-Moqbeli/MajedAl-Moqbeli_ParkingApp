@@ -1,0 +1,6 @@
+C:\Users\MajedAl-Moqbeli\documents\visual studio 2015\Projects\Parking_WS\Parking_WS\bin\Parking_WS.dll.config
+C:\Users\MajedAl-Moqbeli\documents\visual studio 2015\Projects\Parking_WS\Parking_WS\bin\Parking_WS.dll
+C:\Users\MajedAl-Moqbeli\documents\visual studio 2015\Projects\Parking_WS\Parking_WS\bin\Parking_WS.pdb
+C:\Users\MajedAl-Moqbeli\documents\visual studio 2015\Projects\Parking_WS\Parking_WS\obj\Release\Parking_WS.csprojResolveAssemblyReference.cache
+C:\Users\MajedAl-Moqbeli\documents\visual studio 2015\Projects\Parking_WS\Parking_WS\obj\Release\Parking_WS.dll
+C:\Users\MajedAl-Moqbeli\documents\visual studio 2015\Projects\Parking_WS\Parking_WS\obj\Release\Parking_WS.pdb
